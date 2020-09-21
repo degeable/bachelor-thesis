@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/pic">
+        <file>sphere.png</file>
+        <file>button.png</file>
+    </qresource>
+</RCC>
